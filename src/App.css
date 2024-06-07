@@ -1,0 +1,335 @@
+body{
+    background-color: whitesmoke;
+    color: black;
+    margin-left: 8rem;
+    
+}
+
+.Nav{
+    width: 80%;
+    display: flex;
+justify-content: center;
+align-items: center;
+    background-color: white;
+    color: black;
+}
+
+.Nav-link{
+    display: flex;
+    padding-left: 1rem;
+    font-size: 1.1rem;
+    position: relative;
+    left: 1rem;
+}
+
+#sig-nav{
+    background-color: dodgerblue;
+    padding-top: 4px;
+    padding-bottom:4px ;
+    padding-right: 10px;
+    padding-left:10px ;
+    border-radius: 5px;
+    margin-left: 1rem;
+}
+
+#search{
+    width: 35%;
+    padding: 5px;
+    border: solid gray;
+    text-align: center;
+    margin-right: 2rem;
+    border-radius: 15px;
+    font-size: 1.4rem;
+    text-align: left;
+    padding-left: 1rem;
+    }
+
+    .icon{
+        position: relative;
+        left: 13.4rem;
+        top: 3px;
+    }
+
+    .nav-logo{
+        margin-right: 4rem;
+    }
+
+    .Nav{
+        margin-left: 8rem;
+    }
+
+
+    .card{
+        margin-left: 1rem;
+        margin-top: 1rem;
+      }
+
+      .all-cards{
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+
+      #hindi{
+            position: relative;
+            left: 6rem;
+            font-size: 1rem;
+            bottom: 4.1rem;
+            color: gray;
+          }
+      
+
+
+      #Card-status{
+        position: relative;
+        left: 6rem;
+        font-size: 1.3rem;
+        bottom: 3.3rem;
+        font-weight: bold;
+      }
+
+      #card-statuse{
+        position: relative;
+        left: 1rem;
+        bottom: 15px;
+        font-size: 1.2rem;
+        font-weight: bold;
+      }
+
+
+      .Card-Image{
+          width: 420px;
+          height: 300px;
+          border-radius: 20px;
+          margin-left: 1.4rem;
+      }
+
+      #card-image2{
+        width: 50px;
+        height: 40px;
+        border-radius: 50%;
+    }
+
+    .Card-heading{
+        display: flex;
+        margin-left: 2rem;
+        margin-top: 15px;
+    }
+
+    .Card-figures{
+        display: flex;
+        position: relative;
+        left: 2.2rem;
+        font-size: 1rem;
+        bottom: 2.8rem;
+        padding-left: 12px;
+        color: gray;
+    }
+
+    #rates{
+      position: relative;
+      left: 5rem;
+      bottom: 3.9rem;
+      color:blueviolet;;
+    }
+
+
+    .bed{
+        display: flex;
+        font-size: 11px;
+    }
+
+    .Rating{
+        display: flex;
+    }
+
+    .first{
+        display: flex;
+    }
+
+    .second{
+        display: flex;
+
+    }
+
+
+    .stunt{
+        display: flex;
+        position: relative;
+        bottom: 1.4rem;
+        left: 1.5rem;
+    }
+
+    .fig{
+        display: flex;
+        position: relative;
+        bottom: 3rem;
+        left: 1.5rem;
+    }
+
+    #num{
+        margin-left: 4rem;
+    }
+
+    #Din{
+        margin-left: 1.5rem;
+        font-size: 1.3rem;
+        font-weight: bold;
+    }
+
+    #abuja{
+        margin-left: 1.3rem;
+    }
+
+    .House-Image{
+        width: 310px;
+        height: 220px;
+        border-radius: 20px;
+        margin-left: 1.5rem;
+    }
+
+    .flex{
+        display: flex;
+        position: relative;
+        bottom: 1.4rem;
+        padding-left: 7px;
+    }
+
+    #orange{
+        color: orange;
+        margin-left: 3rem;
+    }
+
+    #blue{
+        color: blueviolet;
+    }
+
+    .sect{
+        margin-top: 4rem;
+    }
+
+    #pro{
+        font-size: 1.4rem;
+        font-weight: bold;
+    }
+
+    .Third{
+        display: flex;
+        margin-left: 1rem;
+    }
+
+    .Thirdy{
+        background-color: white;
+        border-radius: 15px;
+        margin-left: 1rem;
+        margin-bottom: 5rem;
+        font-size: 1.1rem;
+        padding: 5px;
+    }
+
+    #space{
+        word-spacing: 7px;
+        width: 100%;
+        color: gray;
+    }
+
+    #spac{
+        word-spacing: 7px;
+        width: 100%;
+        padding-left: 20px;
+        color: gray;
+    }
+
+    .CardPage-image{
+          width: 310px;
+          height: 350px;
+        border-radius: 20px;
+        margin-left: 1.4rem;
+    }
+
+    .nag{
+        display: flex;
+        margin-bottom: 3rem;
+    }
+
+    .Info-CardPage{
+        margin-left: 1.4rem;
+    }
+
+    .duk{
+          background-color:gray;
+          width: 42%;
+          border: 1px gray;
+          margin-bottom: 4.8rem;
+    }
+
+    .duke{
+        background-color:gray;
+        width: 42%;
+        border: 1px gray;
+        margin-bottom: 4.8rem;
+  }
+
+    .Lines{
+        display: flex;
+        margin-left: 1.3rem;
+    }
+
+    .show-more{
+        border: 1px solid gray;
+        color: blueviolet;
+        width: 10%;
+        text-align: center;
+        padding: 0.8rem;
+        border-radius: 20px;
+        position: relative;
+        bottom: 2rem;
+    }
+
+    #sanni{
+       font-size: 1.4rem;
+       font-weight: bold;
+    }
+
+    #actor{
+       word-spacing: 10px; 
+       position: relative;
+       bottom: 15px;
+    }
+
+    .Invest{
+        display: flex;
+        position: relative;
+        bottom: 2rem;
+    }
+
+    #screw{
+       color: gray;
+       margin-left: 10px;
+    }
+
+    .starl{
+        display: flex;
+        margin-left: 5px;
+        position: relative;
+        left: 4rem;
+    }
+
+    #rend{
+        color: blueviolet;
+    }
+
+    .stari{
+        display: flex;
+        margin-left: 5px;
+        position: relative;
+        right: 4.8rem;
+        bottom: 4.6rem;
+    }
+
+    #star-image{
+        width: 5%;
+        height: 20px;
+        margin-top: 1rem;
+    }
+
